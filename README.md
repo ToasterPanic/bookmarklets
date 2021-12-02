@@ -1,2 +1,2 @@
-# scratch-dark4school
-a bookmark that adds a dark theme to the scratch editor
+# bookmarklets4school
+some bookmarklets i made to fill in the roles of extensions i cant install at school
