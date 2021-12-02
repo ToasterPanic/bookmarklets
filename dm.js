@@ -10,8 +10,8 @@ darkmark.main = function() {
 		var t = window.getComputedStyle(o);
 		o.style.backgroundColor = invert(t.backgroundColor, "back"), o.style.color = invert(t.color, "color"), o.setAttribute("invTouch", "true");
 	});
-}
+};
 
 while (true) {
-  window.darkmark.main()
-}
+  window.darkmark.main();
+};
