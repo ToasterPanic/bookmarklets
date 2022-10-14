@@ -12,3 +12,4 @@ A dark mode bookmarklet, decreases strain on your eyes and increases battery lif
 [Large Version](https://github.com/lukasexists/bookmarklets/blob/main/domiil.js)
 
 Destroy websites using a spaceship.
+![explosion sound effects](https://github.com/lukasexists/bookmarklets/raw/main/img/Screenshot%202022-10-14%2012.50.53%20PM.png)
