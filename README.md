@@ -4,7 +4,6 @@ some bookmarklets im working on made to fill in the roles of things i cant use a
 [darkmode.js](https://github.com/lukasexists/bookmarklets/blob/main/darkmode.js)
 
 A dark mode bookmarklet, decreases strain on your eyes and increases battery life. Works better on some sites than others.
-![example image, you dont really need this bookmarklet if you're blind lol](https://github.com/lukasexists/bookmarklets/raw/main/img/Screenshot%202022-10-14%209.29.45%20AM.png)
 
 ### DOM II: Javascript Hell
 [Source](https://blog.roysolberg.com/2017/10/dom2-bookmarklet) - 
@@ -12,5 +11,3 @@ A dark mode bookmarklet, decreases strain on your eyes and increases battery lif
 [Large Version](https://github.com/lukasexists/bookmarklets/blob/main/domiil.js)
 
 Destroy websites using a spaceship. Small version is smaller, but large version is more reliable.
-
-![explosion sound effects](https://github.com/lukasexists/bookmarklets/raw/main/img/Screenshot%202022-10-14%2012.50.53%20PM.png)
