@@ -11,3 +11,8 @@ A dark mode bookmarklet, decreases strain on your eyes and increases battery lif
 [Large Version](https://github.com/lukasexists/bookmarklets/blob/main/domiil.js)
 
 Destroy websites using a spaceship. Small version is smaller, but large version is more reliable.
+
+### Games Anywhere
+[kirka.js](https://github.com/lukasexists/bookmarklets/blob/main/kirka.js)
+
+Play games on almost any website! (Some websites block iframes, such as Summit Learning. You'll have to use something else.)
