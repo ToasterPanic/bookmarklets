@@ -7,6 +7,10 @@ A ton of bookmarklets. Useful for work or school.
 
 A dark mode bookmarklet, decreases strain on your eyes and increases battery life. Works better on some sites than others.
 
+### Youtube Video Downloader
+[ytvideodownload.js](https://github.com/lukasexists/bookmarklets/blob/main/ytvideodownload.js) - [Source](https://bookmarklet.vercel.app/#:~:text=Download%20YouTube%20Video)
+
+Download YouTube videos quickly and easily. Edited version of someone else's due to the fact that y2mate is blocked where I'm at.
 ## FUN
 ### DOM II: Javascript Hell
 [Source](https://blog.roysolberg.com/2017/10/dom2-bookmarklet) - 
