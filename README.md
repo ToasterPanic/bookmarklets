@@ -15,7 +15,7 @@ A dark mode bookmarklet, decreases strain on your eyes and increases battery lif
 
 Destroy websites using a spaceship. Small version is smaller, but large version is more reliable.
 
-### Games Anywhere
+### Kirka Anywhere
 [kirka.js](https://github.com/lukasexists/bookmarklets/blob/main/kirka.js)
 
-Play games on almost any website! (Some websites block iframes, such as Summit Learning. You'll have to use something else.)
+Play Kirka on almost any website! (Some websites block iframes, such as Summit Learning. You'll have to use something else.)
