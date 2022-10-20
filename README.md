@@ -12,12 +12,12 @@ A dark mode bookmarklet, decreases strain on your eyes and increases battery lif
 Download YouTube videos quickly and easily. Edited version of someone else's due to the fact that y2mate is blocked where I'm at.
 
 ### JAVASCRIPTER.NET Calculator
-[Source](http://www.javascripter.net/faq/calculat.htm) - [calculator.js](https://github.com/lukasexists/bookmarklets/blob/main/calculator.js)
+[calculator.js](https://github.com/lukasexists/bookmarklets/blob/main/calculator.js) - [Source](http://www.javascripter.net/faq/calculat.htm)
 
 A calculator. Simple.
 
 ### DOM II: Javascript Hell
-[Source](https://blog.roysolberg.com/2017/10/dom2-bookmarklet) - [Small Version](https://github.com/lukasexists/bookmarklets/blob/main/domiis.js) - [Large Version](https://github.com/lukasexists/bookmarklets/blob/main/domiil.js)
+[Small Version](https://github.com/lukasexists/bookmarklets/blob/main/domiis.js) - [Large Version](https://github.com/lukasexists/bookmarklets/blob/main/domiil.js) - [Source](https://blog.roysolberg.com/2017/10/dom2-bookmarklet)
 
 Destroy websites using a spaceship. Small version is smaller, but large version is more reliable.
 
