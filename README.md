@@ -2,7 +2,7 @@
 A ton of bookmarklets. Useful for work or school.
 
 ### Dark Mode
-[darkmode.js](https://github.com/lukasexists/bookmarklets/blob/main/darkmode.js)
+[darkmode.js](https://github.com/lukasexists/bookmarklets/blob/main/darkmode.js) - [darkmode2.js](https://github.com/lukasexists/bookmarklets/blob/main/darkmode2.js)
 
 A dark mode bookmarklet, decreases strain on your eyes and increases battery life. Works better on some sites than others.
 
