@@ -1,0 +1,1 @@
+javascript: (function() {  document.body.style = 'filter: contrast(1.15) invert(1) hue-rotate(180deg) brightness(0.8); background-color:#000;';  let textStyling = document.createElement('style');  textStyling.innerHTML = 'body,div,p,h1,h2,h3,h4,h5,h6 {color: #444;}';  document.body.appendChild(textStyling);})()
