@@ -1,10 +1,16 @@
 # lukasexists/bookmarklets
 A ton of bookmarklets. Useful for work or school.
 
-### Dark Mode
+### Dark Reader Bookmarklet
+[darkreader.js](https://github.com/lukasexists/bookmarklets/blob/main/darkreader.js)
+This is an actual bookmarklet version of Dark Reader! Should work better than the old dark mode bookmarklets. May not work on some websites.
+
+### Dark Mode Classic
 [darkmode.js](https://github.com/lukasexists/bookmarklets/blob/main/darkmode.js) - [darkmode2.js](https://github.com/lukasexists/bookmarklets/blob/main/darkmode2.js)
 
 A dark mode bookmarklet, decreases strain on your eyes and increases battery life. Works better on some sites than others.
+
+These use the filter CSS property instead of Dark Reader.
 
 ### Youtube Video Downloader
 [ytvideodownload.js](https://github.com/lukasexists/bookmarklets/blob/main/ytvideodownload.js) - [Source](https://bookmarklet.vercel.app/#:~:text=Download%20YouTube%20Video)
