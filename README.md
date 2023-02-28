@@ -3,6 +3,7 @@ A ton of bookmarklets. Useful for work or school.
 
 ### Dark Reader Bookmarklet
 [darkreader.js](https://github.com/lukasexists/bookmarklets/blob/main/darkreader.js)
+
 This is an actual bookmarklet version of Dark Reader! Should work better than the old dark mode bookmarklets. May not work on some websites.
 
 ### Dark Mode Classic
